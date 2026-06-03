@@ -1,0 +1,2 @@
+# Cleanup completed - Redundant and corrupted root files have been removed
+# The project now uses the proper Android app structure in app/src/main/kotlin/com/myredmm/app/
